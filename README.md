@@ -1,23 +1,15 @@
-## Django Job Portal
+## Django Recrutement 
 
-#### An open source online job portal.
-
-Live: [Demo](https://django-portal.herokuapp.com/) or [Second Demo](http://jobs.manjurulhoque.com/)
-
-Used Tech Stack
-
-1. Django
-2. Sqlite
 
 ### Screenshots
 
-## Home page
+## page d'accueil 
 <img src="screenshots/one.png" height="800">
 
-## Add new position as employer
+## Ajouter une nouvelle position employé 
 <img src="screenshots/two.png" height="800">
 
-## Job details
+## Détail des Jon
 <img src="screenshots/three.png" height="800">
 
-Show your support by 🌟 the project!!
+Alchemy 10027🌟 Love it !!
